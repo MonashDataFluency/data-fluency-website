@@ -1,3 +1,7 @@
+Dependencies:
+
+You'll need  [Hugo](https://gohugo.io/getting-started/installing/).
+
 Cloning:
 ```bash
 git clone --recurse-submodules https://github.com/MonashDataFluency/data-fluency-website.git
@@ -5,12 +9,22 @@ git clone --recurse-submodules https://github.com/MonashDataFluency/data-fluency
 
 Editing:
 
-* Content is in `content/`.
-* Images and CSS are in `static/`.
-* Some theme customization and overrides lives in `layouts/`.
+```bash
+hugo server
+
+# or if you want to see pages marked as drafts
+# hugo server -D
+```
+
+* Content is in `content/`
+* Images and CSS are in `static/`
+* Some theme customization and overrides lives in `layouts/`
 
 Building and deployment:
 
 ```bash
+# This builds the static pages, commits and pushes to the Github pages site (using the 'public' git submodule).
+# It doesn't commit or push any changes to your Markdown source - do that yourself.
+
 ./deploy.sh
 ```
