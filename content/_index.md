@@ -4,6 +4,14 @@ date: 2018-02-23T13:28:03+11:00
 draft: false
 ---
 
+# Training
+
+* [Intro to R](https://github.com/MonashBioinformaticsPlatform/r-intro)
+
+* [Intro to Python](https://github.com/MonashBioinformaticsPlatform/intro-to-python-for-bioinformatics)
+
+# About
+
 _Data Fluency_ is a cross-disciplinary initiative by the [Monash University 
 Library](https://www.monash.edu/library)
 and the [Bioinformatics Platform](http://monash.edu/bioinformatics) aiming to 
