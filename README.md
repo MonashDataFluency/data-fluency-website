@@ -1,3 +1,8 @@
+Cloning:
+```bash
+git clone --recurse-submodules https://github.com/MonashDataFluency/data-fluency-website.git
+```
+
 Editing:
 
 * Content is in `content/`.
@@ -7,8 +12,5 @@ Editing:
 Building and deployment:
 
 ```bash
-rm -rf public
-hugo
-
-
+./deploy.sh
 ```
