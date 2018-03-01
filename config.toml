@@ -1,0 +1,30 @@
+baseURL = "http://MonashDataFluency.github.io/"
+languageCode = "en-us"
+title = "Monash Data Fluency"
+theme = "ananke"
+copyright = "Content released under a Creative Commons Attribution 4.0 International license (CC BY 4.0)."
+googleAnalytics = ""
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 5
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  github = "https://github.com/MonashDataFluency"
+
+  featured_image = "/images/banner.jpg"
+  recent_posts_number = 3
+
+  show_title_in_navigation = false
+
+[[menu.main]]
+    name = "Home"
+    weight = -110
+    identifier = "home"
+    url = "/"
