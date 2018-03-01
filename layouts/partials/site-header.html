@@ -4,9 +4,8 @@
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
     <div class="bg-black-60">
-      {{ partial "site-navigation.html" .}}
       <div class="tc-l pv1 pv1-l ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+        <h1 class="f1 fw2 white-90 mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
         {{ with .Params.description }}
@@ -15,14 +14,14 @@
           </h2>
         {{ end }}
       </div>
+      {{ partial "site-navigation.html" .}}
     </div>
   </header>
 {{ else }}
   <header>
     <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | default "bg-black" }}">
-      {{ partial "site-navigation.html" . }}
       <div class="tc-l pv3 ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
+        <h1 class="f1 fw2 light-silver mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
         {{ with .Params.description }}
@@ -31,6 +30,7 @@
           </h2>
         {{ end }}
       </div>
+      {{ partial "site-navigation.html" .}}
     </div>
   </header>
 {{ end }}
