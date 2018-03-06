@@ -4,10 +4,6 @@ date: 2018-02-23T13:28:03+11:00
 draft: false
 ---
 
-Monash Data Fluency is a broad community of researchers, graduate students and 
-professional staff that come together to learn and share their expertise in 
-working with code and data.
-
 # Contact us
 
 Please direct enquiries to:

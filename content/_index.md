@@ -4,8 +4,9 @@ date: 2018-02-23T13:28:03+11:00
 draft: false
 ---
 _Data Fluency_ is a cross-disciplinary initiative aiming to help researchers 
-at Monash develop skills to explore, interpret and visualise big data in 
-to effectively communicate your research and ideas. The community runs 
+at Monash develop skills to explore, interpret and visualise big data to 
+effectively communicate your research and ideas. The community is open to 
+researchers, graduate students and professional staff and runs 
 Software and Data Carpentry workshops on R, Python, Tableau, Excel for 
 research, MATLAB and Git [..more](/about/).
 
