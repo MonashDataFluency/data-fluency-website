@@ -7,7 +7,7 @@ draft: false
 * [Intro to R](https://github.com/MonashBioinformaticsPlatform/r-intro) - an 
 introductory tutorials on data analysis and visualization with R
 
-* [Intro to Python](https://github.com/MonashDataFluency/Intro_to_python) - 
+* [Intro to Python](http://www.datacarpentry.org/python-ecology-lesson/) - 
 an introductory Python tutorial
 
 * [Linux Journey: Command Line](https://linuxjourney.com/lesson/the-shell) - 
