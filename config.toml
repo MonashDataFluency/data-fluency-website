@@ -23,6 +23,8 @@ Paginate = 5
   recent_posts_number = 3
 
   show_title_in_navigation = false
+  # list Sections here (by filename minus .md) that you want to exclude from the front page navigation
+  hide_sections_in_main_menu = ["intro_to_python"]
 
 [[menu.main]]
     name = "Home"

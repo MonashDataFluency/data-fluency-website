@@ -17,12 +17,15 @@
                     </a>
                 </li>
                 {{ end }}
+                {{ $hidden_sections := .Site.Params.hide_sections_in_main_menu }}
                 {{ range .Site.Menus.main }}
-                <li class="list f5 f4-ns fw4 dib pr3">
-                    <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
-                        {{ .Name }}
-                    </a>
-                </li>
+                    {{ if not (in $hidden_sections .Identifier) }}
+                    <li class="list f5 f4-ns fw4 dib pr3">
+                        <a class="hover-white no-underline white-90" href="{{ .URL }}" title="{{ .Name }} page">
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{ end }}
                 {{ end }}
             </ul>
             {{ end }}
