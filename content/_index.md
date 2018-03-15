@@ -16,4 +16,4 @@ research, MATLAB and Git [..more](/about/).
 
 * [Intro to R](https://github.com/MonashBioinformaticsPlatform/r-intro)
 
-* [Intro to Python](http://www.datacarpentry.org/python-ecology-lesson/)
+* [Intro to Python](/intro_to_python/)
