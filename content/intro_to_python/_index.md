@@ -10,7 +10,7 @@ draft: false
 -	**Time** :		1:00pm to 5:00pm
 -	**Location** :		Sir Louis Matheson Library, Clayton, VIC
 -	**Instructors** :	Anup Shah, Kirill Tsyganov
--	**Helpers** : 		Simon Michonowicz, Micheal See  
+-	**Helpers** : 		Simon Michonowicz, Michael See  
 
 
 This hands-on workshop aims to equip participants with the fundamentals of programming and give them skills needed apply data analysis approaches to research questions
