@@ -283,12 +283,7 @@ To add an item to the dictionary we assign a value to a new key:
 ```
 
 ## Challenge - Can you do reassignment in a dictionary? 
-1. First check what `rev` is right now (remember `rev` is the name of our dictionary). 
-    Type:
-
-```python
- >>> rev
-```
+1. First check what `rev` is right now (remember `rev` is the name of our dictionary).  Type: **rev**
 
 2. Try to reassign the second value (in the *key value pair*) so that it no longer reads "two" but instead reads "apple-sauce". 
 
@@ -302,3 +297,5 @@ added to the dictionary). Because of this, the order in which items are
 returned from loops over dictionaries might appear random and can even change
 with time.
 
+
+## [NEXT](/intro_to_python/working_with_data/)

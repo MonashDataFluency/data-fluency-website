@@ -40,7 +40,7 @@ Time	|	Programme
 -	[Introduction to Python](/intro_to_python/intro/)
 -	[Working with Data](/intro_to_python/working_with_data/)
 -	Data Types
--	Indexing and Slicing 
+-	[Indexing and Slicing](/intro_to_python/indexing/) 
 -	Automation
 -	Plotting with Python
 -	[References](http://www.datacarpentry.org/python-ecology-lesson/reference/)
