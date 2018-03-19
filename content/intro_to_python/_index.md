@@ -47,4 +47,5 @@ Time	|	Programme
 
 #### Shared Notepad
 
--	[Click here](/intro_to_python/) #(http://biotraining.erc.monash.edu:9001/p/intro_to_python_march_23_18) to go to go to shared notepad. 	
+-	[Click here](/intro_to_python/)
+<!-- [comment]:<> #(http://biotraining.erc.monash.edu:9001/p/intro_to_python_march_23_18) to go to go to shared notepad. --> 	
