@@ -8,9 +8,9 @@ draft: false
 
 -	**Date** :		23rd March 2018
 -	**Time** :		1:00pm to 5:00pm
--	**Location** :		Sir Louis Matheson Library, Clayton, VIC
+-	**Location** :		T1, Sir Louis Matheson Library, Clayton, VIC
 -	**Instructors** :	Anup Shah, Kirill Tsyganov
--	**Helpers** : 		Simon Michonowicz, Michael See  
+-	**Helpers** : 		Simon Michnowicz, Michael See  
 
 
 This hands-on workshop aims to equip participants with the fundamentals of programming and give them skills needed apply data analysis approaches to research questions
@@ -38,8 +38,7 @@ Time	|	Programme
 #### Syllabus
 
 -	[Introduction to Python](/intro_to_python/intro/)
--	[Working with Data](/intro_to_python/working_with_data/)
--	Data Types
+-	[Data analysis in Python](/intro_to_python/working_with_data/)
 -	[Indexing and Slicing](/intro_to_python/indexing/) 
 -	Automation
 -	Plotting with Python

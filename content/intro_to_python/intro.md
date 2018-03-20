@@ -62,7 +62,8 @@ using the assignment operator `=`. To review the value of a variable, we
 can type the name of the variable into the interpreter and press `Enter`:
 
 ```python
->>> text
+text
+## Which Returns
 "Data Fluency"
 ```
 
@@ -70,11 +71,11 @@ Everything in Python has a type. To get the type of something, we can pass it
 to the built-in function `type`:
 
 ```python
->>> type(text)
+type(text)
  str
->>> type(number)
+type(number)
  int
->>> type(6.02)
+type(6.02)
  float
 ```
 
@@ -85,9 +86,11 @@ or more exotic forms of text (even emoji!).
 We can also see the value of something using another built-in function, `print`:
 
 ```python
->>> print(text)
+
+print(text)
 Data Fluency
->>> print(11)
+
+print(11)
 11
 ```
 
@@ -117,7 +120,7 @@ lesson, we will introduce methods and user-defined functions. The Python
 documentation is excellent for reference on the differences between them.
 
 ```python
-help (print)
+help(print)
 ```
 
 Will give the output
@@ -191,7 +194,6 @@ structure one at a time:
 1
 2
 3
->>>
 ```
 
 **Indentation** is very important in Python. Note that the second line in the

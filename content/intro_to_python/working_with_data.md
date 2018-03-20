@@ -36,9 +36,7 @@ For this lesson, we will be using the Portal Teaching data, a subset of the data
 from Ernst et al
 [Long-term monitoring and experimental manipulation of a Chihuahuan Desert ecosystem near Portal, Arizona, USA](http://www.esapubs.org/archive/ecol/E090/118/default.htm)
 
-We will be using files from the [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459).
-This section will use the `surveys.csv` file that can be downloaded here:
-[https://ndownloader.figshare.com/files/2292172](https://ndownloader.figshare.com/files/2292172)
+We will be using this dataset, which is stored under your login/account under the **Files** tab.
 
 We are studying the species and weight of animals caught in plots in our study
 area. The dataset is stored as a `.csv` file: each row holds information for a
@@ -518,13 +516,11 @@ total_count.plot(kind='bar');
 
 1. Create a plot of average weight across all species per plot.
 2. Create a plot of total males versus total females for the entire dataset.
-{: .challenge}
 
-## Summary Plotting Challenge
+
+## _Extra Plotting Challenge_
  
-Create a stacked bar plot, with weight on the Y axis, and the stacked variable
-being sex. The plot should show total weight by sex for each plot. Some
-tips are below to help you solve this challenge:
+1. Create a stacked bar plot, with weight on the Y axis, and the stacked variable being sex. The plot should show total weight by sex for each plot. Some tips are below to help you solve this challenge:
 
 * [For more on Pandas plots, visit this link.](http://pandas.pydata.org/pandas-docs/stable/visualization.html#basic-plotting-plot)
 * You can use the code that follows to create a stacked bar plot but the data to stack
@@ -554,7 +550,6 @@ my_df = pd.DataFrame(d)
 my_df.plot(kind='bar',stacked=True,title="The title of my graph")
 ```
 
- ![Stacked Bar Plot](/images/stacked_barplot.png)
 
 * You can use the `.unstack()` method to transform grouped data into columns
 for each plotting.  Try running `.unstack()` on some DataFrames above and see
@@ -564,7 +559,7 @@ for each plotting.  Try running `.unstack()` on some DataFrames above and see
  a stacked plot.
 
 
-## Solution to Summary Challenge
+## _Solution to Extra Challenge_
 
 First we group data by plot and by sex, and then calculate a total for each plot.
 
