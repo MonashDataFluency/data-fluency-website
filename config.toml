@@ -28,7 +28,7 @@ Paginate = 5
   show_title_in_navigation = false
 
   # list Sections here (by filename minus .md) that you want to exclude from the front page navigation
-  hide_sections_in_main_menu =  ["intro_to_python","intro_to_r"]
+  hide_sections_in_main_menu =  ["intro_to_python","intro_to_r","intro_to_machine_learning"]
 
 [[menu.main]]
     name = "Home"
