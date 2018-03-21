@@ -8,7 +8,7 @@ draft: false
 
 -	**Date** :		23rd March 2018
 -	**Time** :		1:00pm to 5:00pm
--	**Location** :		T4, Sir Louis Matheson Library, Clayton, VIC
+-	**Location** :		L1.04, Sir Louis Matheson Library, Clayton, VIC
 -	**Instructor** :	Jason Rigby
 -	**Helpers** : 		Shenjun Zhong, Sonika Tyagi
 
@@ -36,12 +36,12 @@ Time	|	Programme
 
 #### Course material
 
+- [Login to Juptyer](http://130.220.208.142:9393/hub/login)
 - [Course Notes](https://github.com/MonashDataFluency/intro-to-tensorflow/blob/master/ML-Coursework_Student.ipynb)
-- [Login to Juptyer](http://biotraining.erc.monash.edu:8787/)
 
 #### Shared Notepad
 
--	[Click here]()
+-	[Click here](http://biotraining.erc.monash.edu:9001/p/intro_machine_learning_23_march_2018)
 
 
 

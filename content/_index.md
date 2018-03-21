@@ -17,3 +17,5 @@ research, MATLAB and Git [..more](/about/).
 * [Intro to R](/intro_to_r/)
 
 * [Intro to Python](/intro_to_python/)
+
+* [Intro to Machine Learning](/intro_to_machine_learning/)
