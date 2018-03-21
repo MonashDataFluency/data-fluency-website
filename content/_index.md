@@ -14,6 +14,6 @@ research, MATLAB and Git [..more](/about/).
 
 ## Training materials
 
-* [Intro to R](https://github.com/MonashBioinformaticsPlatform/r-intro)
+* [Intro to R](/intro_to_r/)
 
 * [Intro to Python](/intro_to_python/)

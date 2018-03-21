@@ -515,4 +515,4 @@ asking Python to select rows that have a `NaN` value of weight.
    plot.
   3. Count the number of missing values per column. Hint: The method .count() gives you the number of non-NA observations per column. 
 
-  ## [NEXT](/intro_to_python/looping/)
+## [NEXT](/intro_to_python/looping/)

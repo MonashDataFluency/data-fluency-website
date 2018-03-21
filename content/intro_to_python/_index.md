@@ -13,7 +13,7 @@ draft: false
 -	**Helpers** : 		Simon Michnowicz, Michael See  
 
 
-This hands-on workshop aims to equip participants with the fundamentals of programming and give them skills needed apply data analysis approaches to research questions
+This hands-on workshop aims to equip participants with the fundamentals of programming and give them skills needed to apply data analysis approaches to their research questions.
 
 
 #### General Information
@@ -30,7 +30,7 @@ Time	|	Programme
 -----------	| ------------------:
 13:00	|	Welcome
 13:15	|	Session 1
-15:00	|	Break
+15:15	|	Break
 15:30	|	Session 2
 16:45	|	Wrap-up
 
