@@ -49,7 +49,7 @@ Time	|	Programme
 -	[Introduction to Python](/intro_to_python/intro/)
 -	[Data analysis in Python](/intro_to_python/working_with_data/)
 -	[Indexing and Slicing](/intro_to_python/indexing/) 
--	Automation
--	Plotting with Python
+-	[Automation](/intro_to_python/loops/)
+-	[Plotting with Python](/intro_to_python/plotting/)
 -	[References](http://www.datacarpentry.org/python-ecology-lesson/reference/)
 	
