@@ -35,16 +35,21 @@ Time	|	Programme
 16:45	|	Wrap-up
 
 
+#### Login Information
+*   [Login to Server](http://130.220.208.123:9393/) using details send out on your registered email. 
+
+
+#### Shared Notepad
+
+*   [Click here](http://biotraining.erc.monash.edu:9001/p/intro_to_python_march_23_18) to go to shared notepad. 
+
+
 #### Syllabus
 
 -	[Introduction to Python](/intro_to_python/intro/)
 -	[Data analysis in Python](/intro_to_python/working_with_data/)
 -	[Indexing and Slicing](/intro_to_python/indexing/) 
--	Automation
--	Plotting with Python
+-	[Automation](/intro_to_python/loops/)
+-	[Plotting with Python](/intro_to_python/plotting/)
 -	[References](http://www.datacarpentry.org/python-ecology-lesson/reference/)
-
-#### Shared Notepad
-
--	[Click here](/intro_to_python/)
-<!-- [comment]:<> #(http://biotraining.erc.monash.edu:9001/p/intro_to_python_march_23_18) to go to go to shared notepad. --> 	
+	
