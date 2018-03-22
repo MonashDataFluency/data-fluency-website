@@ -220,6 +220,7 @@ of data:
 Never fear, all the data is there, if you scroll up. Selecting just a few rows, so it is
 easier to fit on one window, you can see that pandas has neatly formatted the data to fit
 our screen:
+
 ```python
 
 >>> surveys_df.head() # The head() function displays the first several lines of a file. It
@@ -278,7 +279,6 @@ fractional values, but the weight and hindfoot_length columns can, because they
 have type `float64`. The `object` type doesn't have a very helpful name, but in
 this case it represents strings (such as 'M' and 'F' in the case of sex).
 
-We'll talk a bit more about what the different formats mean in a different lesson.
 
 ### Useful Ways to View DataFrame objects in Python
 
@@ -485,8 +485,11 @@ be to normalize the data according to a mean, area, or some other value
 calculated from our data.
 
 ```python
-# Multiply all weight values by 2
+
+# Multiply all weight values by 2 but does not change the original weight data
+
 surveys_df['weight']*2
+
 ```
 
 ## Quick & Easy Plotting Data Using Pandas
@@ -494,14 +497,16 @@ surveys_df['weight']*2
 We can plot our summary stats using Pandas, too.
 
 ```python
-import matplotlib
-## IMPORTANT STEP: Make sure figures appear inline in Ipython Notebook
-	%matplotlib inline
+
+## To make sure figures appear inside Jupyter Notebook
+%matplotlib inline
+
 # Create a quick bar chart
-	species_counts.plot(kind='bar');
+species_counts.plot(kind='bar');
 ```
 
 ![Weight by Species Plot](/images/each_species.jpg)
+
 Weight by species plot
 
 We can also look at how many animals were captured in each plot:
@@ -512,15 +517,13 @@ total_count = surveys_df.groupby('plot_id')['record_id'].nunique()
 total_count.plot(kind='bar');
 ```
 
-## Challenge - Plots
+## _Extra Plotting Challenge_
 
 1. Create a plot of average weight across all species per plot.
+
 2. Create a plot of total males versus total females for the entire dataset.
-
-
-## _Extra Plotting Challenge_
  
-1. Create a stacked bar plot, with weight on the Y axis, and the stacked variable being sex. The plot should show total weight by sex for each plot. Some tips are below to help you solve this challenge:
+3. Create a stacked bar plot, with weight on the Y axis, and the stacked variable being sex. The plot should show total weight by sex for each plot. Some tips are below to help you solve this challenge:
 
 * [For more on Pandas plots, visit this link.](http://pandas.pydata.org/pandas-docs/stable/visualization.html#basic-plotting-plot)
 * You can use the code that follows to create a stacked bar plot but the data to stack
@@ -559,7 +562,7 @@ for each plotting.  Try running `.unstack()` on some DataFrames above and see
  a stacked plot.
 
 
-## _Solution to Extra Challenge_
+## _Solution to Extra Challenge 3_
 
 First we group data by plot and by sex, and then calculate a total for each plot.
 

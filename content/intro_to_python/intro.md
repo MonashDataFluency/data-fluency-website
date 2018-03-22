@@ -59,7 +59,7 @@ pi_value = 3.1415  # An example of a float
 
 Here we've assigned data to the variables `text`, `number` and `pi_value`,
 using the assignment operator `=`. To review the value of a variable, we
-can type the name of the variable into the interpreter and press `Enter`:
+can type the name of the variable into the Jupyter notebook and press **Shift** and **Enter**:
 
 ```python
 text
@@ -113,7 +113,7 @@ $ python example.py
 Data Fluency
 ```
 
-Notice that "Data Carpentry" is printed only once. 
+Notice that "Data Fluency" is printed only once. 
 
 **Tip**: `print` and `type` are built-in functions in Python. Later in this
 lesson, we will introduce methods and user-defined functions. The Python
@@ -184,8 +184,7 @@ indexes start with 0 instead of 1:
 1
 ```
 
-A `for` loop can be used to access the elements in a list or other Python data
-structure one at a time:
+A `for` loop can be used to access the elements in a list or other Python data structure one at a time. We will learn about loops in other lesson.
 
 ```python
 >>> for num in numbers:

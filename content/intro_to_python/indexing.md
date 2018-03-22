@@ -246,9 +246,8 @@ selects the element that is 3 rows down and 7 columns over in the DataFrame.
 2. What happens when you call:
 
    - `surveys_df.iloc[0:4, 1:4]`
-   - `surveys_df.loc[0:4, 1:4]`
 
-- How are the two commands different?
+
 
 
 ## Subsetting Data using Criteria
@@ -309,7 +308,7 @@ Experiment with selecting various subsets of the "surveys" data.
    the year 1999 and that contain weight values less than or equal to 8. How
    many rows did you end up with? What did your neighbor get?
 
-2. You can use the `isin` command in Python to query a DataFrame based upon a
+2. **(Extra)** You can use the `isin` command in Python to query a DataFrame based upon a
    list of values as follows:
 
 ```python
@@ -380,6 +379,7 @@ the mask as an index to subset our data as follows:
 # To select just the rows with NaN values, we can use the 'any()' method
 surveys_df[pd.isnull(surveys_df).any(axis=1)]
 ```
+**(axis=1)** is a numpy convention to specify columns. 
 
 Note that the `weight` column of our DataFrame contains many `null` or `NaN`
 values. Next, we will explore ways of dealing with this.
@@ -427,7 +427,9 @@ We can replace all NaN values with zeroes using the `.fillna()` method (after
 making a copy of the data so we don't lose our work):
 
 ```python
+# Creat a new DataFrame using copy
 df1 = surveys_df.copy()
+
 # Fill all NaN values with 0
 df1['weight'] = df1['weight'].fillna(0)
 ```
@@ -441,6 +443,7 @@ df1['weight'].mean()
 38.751976145601844
 ```
 
+### _Extra Information_
 We can fill NaN values with any value that we chose. The code below fills all
 NaN values with a mean for all weight values.
 
