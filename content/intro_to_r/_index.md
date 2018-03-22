@@ -17,7 +17,7 @@ This is a beginner-level workshop providing a taste of working in the R language
 
 #### General Information
 
-The workshop will be taught in a similar style to Data Carpentry workshops. [Data Carpentry’s](http://www.datacarpentry.org/) mission is to trains researchers in the core data skills for efficient, shareable, and reproducible research practices.
+The workshop will be taught in a similar style to Sofware Carpentry workshops. [Software Carpentry’s](https://software-carpentry.org/) mission is to trains researchers in the core data skills for efficient, shareable, and reproducible research practices.
 
 **Who:** The course is aimed at beginners to programming. You don’t need to have any previous knowledge of the tools that will be presented at the workshop.
 
@@ -43,5 +43,6 @@ Time	|	Programme
 
 -	[Click here](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_23_march_2018)
 
+#### Keep In Touch
 
-
+* [Sign up to Data Fluency's mailing list](https://github.us17.list-manage.com/subscribe?u=6796026cf3cf40ca6d7ea6d03&id=6b5e932048)

@@ -43,5 +43,7 @@ Time	|	Programme
 
 -	[Click here](http://biotraining.erc.monash.edu:9001/p/intro_machine_learning_23_march_2018)
 
+#### Keep In Touch
 
+* [Sign up to Data Fluency's mailing list](https://github.us17.list-manage.com/subscribe?u=6796026cf3cf40ca6d7ea6d03&id=6b5e932048)
 
