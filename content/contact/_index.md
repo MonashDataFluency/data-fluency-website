@@ -9,17 +9,17 @@ draft: false
 Please direct enquiries to:
 
 ----
- 
-**Launch:** Linda Kalejs, Peninsula Library Manager
 
-**T:** +61 3 99044280  
-
-**E:** linda.kalejs@monash.edu
-
-----
- 
-**Workshops:** Dr Sonika Tyagi, Monash Bioinformatics Platform Manager
+Dr Sonika Tyagi, Monash Bioinformatics Platform Manager
 
 **T:** +61 3 9905 6047
 
-**E:** sonika.tyagi@monash.edu
+**E:** <a href="mailto://sonika.tyagi@monash.edu">sonika.tyagi@monash.edu</a>
+
+----
+
+Linda Kalejs, Peninsula Library Manager
+
+**T:** +61 3 99044280
+
+**E:** <a href="mailto://linda.kalejs@monash.edu">linda.kalejs@monash.edu</a>

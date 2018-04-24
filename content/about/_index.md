@@ -8,7 +8,7 @@ draft: false
 
 _Data Fluency_ is a cross-disciplinary initiative by the [Monash University 
 Library](https://www.monash.edu/library)
-and the [Bioinformatics Platform](http://monash.edu/bioinformatics) aiming to 
+and the [Bioinformatics Platform](http://platforms.monash.edu/bioinformatics) aiming to 
 build researcher capability at 
 Monash. 
 Becoming involved in the community will provide you with 
@@ -24,3 +24,18 @@ experts, and those in between in learning and teaching through:
    Python, Tableau for data visualisation, Excel for research, MATLAB and GitHub.
  - Software Carpentry instructor training.
  - Community of Practice networking events and seminars.
+ 
+## Trainers
+
+* Paul Harrison
+* Anup Shah
+* Adelle Barugahare
+* Kirill Tsyganov
+* Simon Michnowicz
+* Kerri Wait
+* Gin Tan
+* Andrew Perry
+* Nick Wong ([@methylnick](https://twitter.com/@methylnick))
+* Sebastian Borutta
+* Andrew Harrison
+* Richard Beare

@@ -10,9 +10,12 @@ researchers, graduate students and professional staff and runs
 Software and Data Carpentry workshops on R, Python, Tableau, Excel for 
 research, MATLAB and Git [..more](/about/).
 
-#### Join us at the launch event, 23 March at 10am [..more](/events/)
+[Join the mailing list](http://eepurl.com/dmzhGH) for event updates,
+and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
 
-## Training materials
+## Past Workshops
+
+### 23 Mar 2018
 
 * [Intro to R](/intro_to_r/)
 

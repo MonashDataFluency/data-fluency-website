@@ -4,20 +4,15 @@ date: 2018-02-23T13:28:03+11:00
 draft: false
 ---
 
-## Launch workshop 
+## Friday drop-in sessions
 
-Build your data fluency through ongoing skill development opportunities. 
-Take advantage of free workshops, weekly drop-in sessions, hackathon events, 
-technical talks, and more. Become part of our growing community of practice.
- 
-The Data Fluency program will be launched on ***23 March at 10am***. 
-Find out more about [Data Fluency](https://www.monash.edu/library/data-fluency).
- 
-We will running workshops at the [Matheson Library](https://goo.gl/maps/HUKeRDWYk9y), 1pm - 5pm. 
-Make sure you register for the workshops to get a spot.
- 
-**Workshop 1:** Intro to Python **<register here>**
+Drop-in sessions run every Friday, Room G19, 15 Innovation Walk (opposite Cinque Lire cafe).
 
-**Workshop 2:** Deep Learning **<register here>**
+Please drop by to mingle with other data fluency community members.
 
-**Workshop 3:** Introduction to R **<register here>**
+Show people what you are working on, ask for help or share your expertise with others.
+
+On the last Friday of the month we will also be host a book club and a coding / data analysis challenges.
+
+For updates, [join the mailing list](http://eepurl.com/dmzhGH) 
+and follow us on Twitter ([@resdataflu](https://twitter.com/resdatflu)).

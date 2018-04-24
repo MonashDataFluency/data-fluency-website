@@ -52,3 +52,11 @@ listing all pages in that section, for that page.
 
 ./deploy.sh
 ```
+
+### Updating for past / new events
+
+We want past events to automatically appear as a list of 'posts' at the bottom of the events page. To do this:
+
+* Create a new page in the `content/events` folder (eg `launch-workshop-20-mar-2018.md`). Include the date at the end of the file as shown.
+* Copy the content for the past event on `content/events/_index.md` into the new page dedicated to the past event.
+* Replace the content on `content/events/_index.md` with info about any upcoming events.
