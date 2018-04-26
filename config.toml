@@ -28,10 +28,42 @@ Paginate = 5
   show_title_in_navigation = false
 
   # list Sections here (by filename minus .md) that you want to exclude from the front page navigation
-  hide_sections_in_main_menu =  ["intro_to_python","intro_to_r","intro_to_machine_learning"]
+  hide_sections_in_main_menu =  ["workshops"]
+
+[menu]
 
 [[menu.main]]
     name = "Home"
-    weight = -110
+    weight = 1
     identifier = "home"
     url = "/"
+
+[[menu.main]]
+    name = "Events"
+    weight = 2
+    identifier = "events"
+    url = "/events"
+
+[[menu.main]]
+    name = "Resources"
+    weight = 3
+    identifier = "resources"
+    url = "/resources"
+
+#[[menu.main]]
+#    name = "Challenges"
+#    weight = 4
+#    identifier = "challenges"
+#    url = "/challenges"
+
+[[menu.main]]
+    name = "Contact"
+    weight = 5
+    identifier = "contact"
+    url = "/contact"
+
+[[menu.main]]
+    name = "About"
+    weight = 6
+    identifier = "about"
+    url = "/about"
