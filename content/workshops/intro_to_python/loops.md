@@ -134,7 +134,7 @@ for variable in collection:
 
 Using the oxygen example above, the loop might look like this:
 
-![loop_image](/images/loops_image.png)
+![loop_image](images/loops_image.png)
 
 where each character (`char`) in the variable `word` is looped through and printed one character after another.
 The numbers in the diagram denote which loop cycle the character was printed in (1 being the first loop, and 6 being the final loop).
@@ -359,4 +359,4 @@ y = 0
 for i, c in enumerate(cc):
     y = y + x**i * c
 ```
-## [NEXT](/intro_to_python/plotting/)
+## [NEXT](../plotting/)

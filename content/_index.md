@@ -17,8 +17,8 @@ and checkout our [Github](https://github.com/MonashDataFluency) (pull requests a
 
 ### 23 Mar 2018
 
-* [Intro to R](/intro_to_r/)
+* [Intro to R](/workshops/intro_to_r/)
 
-* [Intro to Python](/intro_to_python/)
+* [Intro to Python](/workshops/intro_to_python/)
 
-* [Intro to Machine Learning](/intro_to_machine_learning/)
+* [Intro to Machine Learning](/workshops/intro_to_machine_learning/)

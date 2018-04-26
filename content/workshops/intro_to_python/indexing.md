@@ -108,8 +108,8 @@ within objects starting at 1.
 a = [1, 2, 3, 4, 5]
 ```
 
-![indexing diagram](/images/slicing-indexing.svg)
-![slicing diagram](/images/slicing-slicing.svg)
+![indexing diagram](../images/slicing-indexing.svg)
+![slicing diagram](../images/slicing-slicing.svg)
 
 
 ## Challenge - Extracting data
@@ -518,4 +518,4 @@ asking Python to select rows that have a `NaN` value of weight.
    plot.
   3. Count the number of missing values per column. Hint: The method .count() gives you the number of non-NA observations per column. 
 
-## [NEXT](/intro_to_python/loops/)
+## [NEXT](../loops/)
