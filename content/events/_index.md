@@ -6,7 +6,7 @@ draft: false
 
 ## Friday drop-in sessions
 
-Drop-in sessions run every Friday, Room G19, 15 Innovation Walk (opposite Cinque Lire cafe).
+Drop-in sessions run every Friday, 3 - 5 pm, Room G19, 15 Innovation Walk (opposite Cinque Lire cafe).
 
 Please drop by to mingle with other data fluency community members.
 
