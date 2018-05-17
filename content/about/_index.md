@@ -27,15 +27,32 @@ experts, and those in between in learning and teaching through:
  
 ## Trainers
 
-* Paul Harrison
-* Anup Shah
-* Adelle Barugahare
-* Kirill Tsyganov
-* Simon Michnowicz
-* Kerri Wait
-* Gin Tan
-* Andrew Perry
-* Nick Wong ([@methylnick](https://twitter.com/@methylnick))
-* Sebastian Borutta
-* Andrew Harrison
-* Richard Beare
+* Anup Shah (Monash Bioinformatics Platform)
+* Kirill Tsyganov (Monash Bioinformatics Platform)<br>
+  <a href="https://twitter.com/kizza_a"><i class="fab fa-twitter-square"></i> @kizza_a</a> <a href="https://github.com/serine"><i class="fab fa-github-square"></i> serine</a>
+* Simon Michnowicz (Monash eResearch Centre)
+* Linda Kalejs (Monash University)
+* Nick Wong (Monash Bioinformatics Platform)<br>
+  <a href="https://twitter.com/methylnick"><i class="fab fa-twitter-square"></i> @methylnick</a> <a href="https://github.com/methylnick"><i class="fab fa-github-square"></i> methylnick</a>
+* Kaycee Low (Monash University)<br>
+  <a href="https://github.com/lowc"><i class="fab fa-github-square"></i> lowc</a>
+* Paul Harrison (Monash Bioinformatics Platform)<br>
+  <a href="https://twitter.com/paulfharrison"><i class="fab fa-twitter-square"></i> @paulfharrison</a> <a href="https://github.com/methylnick"> <a href="https://github.com/pfh"><i class="fab fa-github-square"></i> pfh</a>
+* Gede Primahadi Wijaya Rajeg, (Monash University, Linguistics Department)<br>
+  <a href="https://twitter.com/PrimahadiWijaya"><i class="fab fa-twitter-square"></i> @PrimahadiWijaya</a> <a href="https://github.com/gederajeg"><i class="fab fa-github-square"></i> gederajeg</a>
+* Sebastian Borutta (Monash University)
+* Andrew Perry (Monash Bioinformatics Platform)<br>
+  <a href="https://github.com/pansapiens"><i class="fab fa-github-square"></i> pansapiens</a>
+* Andrew Harrison (Monash University Library)
+* Owen Kaluza (Monash Immersive Visualisation Platform)<br>
+  <a href="https://github.com/okaluza"><i class="fab fa-github-square"></i> okaluza</a>
+* Adele Barugahare, Monash University (Monash Bioinformatics Platform)<br>
+  <a href="https://twitter.com/technadele"><i class="fab fa-twitter-square"></i> @technadele</a><a href="https://github.com/aabarug"><i class="fab fa-github-square"></i> aabarug</a>
+* Gin Tan (Monash eResearch Centre)
+* Keith Schulze (Monash eResearch Centre)
+* Richard Beare (Monash University, Murdoch Children's Research Institute)<br>
+  <a href="https://github.com/richardbeare"><i class="fab fa-github-square"></i> richardbeare</a>
+* Sonika Tyagi (Monash Bioinformatics Platform)<br>
+  <a href="https://twitter.com/tsonika"><i class="fab fa-twitter-square"></i> @tsonika</a><a href="https://github.com/tsonika"><i class="fab fa-github-square"></i> tsonika</a>
+* Kerri Wait (Monash eResearch Centre)<br>
+  <a href="https://twitter.com/irreK"><i class="fab fa-twitter-square"></i> @irreK</a><a href="https://github.com/kerriwait"><i class="fab fa-github-square"></i> kerriwait</a>

@@ -3,10 +3,7 @@ title: "Challenges"
 date: 2018-04-25T13:28:03+11:00
 draft: false
 ---
-
 # 27 Apr 2018
-
-<!-- insert latest Friday challenges here -->
 
 ### Challenge 1: Vowel Count
 
@@ -116,6 +113,3 @@ For this data fluency challenge; lets visualise how has waste composition and pr
 Additionally - are there any interesting insights to be made from the other data in this document?
 
 We can share our different approaches on the day.
-
-<!-- move old challenges to their own page, the will be automatically listed below -->
-

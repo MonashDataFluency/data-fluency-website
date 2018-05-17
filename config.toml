@@ -18,7 +18,7 @@ Paginate = 5
 [params]
   github = "https://github.com/MonashDataFluency"
   twitter = "https://twitter.com/ResDatFlu"
-
+  slack = "https://datafluency.slack.com"
   featured_image = "/images/banner.jpg"
   recent_posts_number = 3
 

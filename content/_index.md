@@ -10,8 +10,9 @@ researchers, graduate students and professional staff and runs
 Software and Data Carpentry workshops on R, Python, Tableau, Excel for 
 research, MATLAB and Git [..more](/about/).
 
-[Join the mailing list](http://eepurl.com/dmzhGH) for event updates,
-and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
+[Join the mailing list](http://eepurl.com/dmzhGH) for event updates and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
+
+We also have a [Slack channel](https://datafluency.slack.com) where the community can ask for help and advice, as well as share and discuss links of interest. 
 
 ## Past Workshops
 
