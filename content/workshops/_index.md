@@ -1,7 +1,7 @@
 ---
 title: "Workshops"
 date: 2018-04-25T13:28:03+11:00
-draft: true
+draft: false
 ---
 
 * [Intro to R](intro_to_r/)

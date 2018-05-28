@@ -65,6 +65,7 @@ experts, and those in between in learning and teaching through:
 * Gin Tan (Monash eResearch Centre)
 
 * Keith Schulze (Monash eResearch Centre)
+  <a href="https://github.com/keithschulze"><i class="fab fa-github-square"></i> keithschulze</a>
 
 * Richard Beare (Monash University, Murdoch Children's Research Institute)<br>
   <a href="https://github.com/richardbeare"><i class="fab fa-github-square"></i> richardbeare</a>
