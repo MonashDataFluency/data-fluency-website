@@ -6,12 +6,9 @@ draft: false
 
 ## Introduction to R Workshop
 
-- **Date** : 1st June 2018
-- **Time** : 1:00pm to 5:00pm
-- **Location** : Monash University Peninsula Campus, 
-                 Building 621 (Building L, Library). 
-                 L110 Training Room, (Building L)
-                 https://goo.gl/maps/cPsL3oCD8tw
+-	**Date** :		23rd March 2018
+-	**Time** :		1:00pm to 5:00pm
+-	**Location** :		T4, Sir Louis Matheson Library, Clayton, VIC
 -	**Instructors** :	Dr Paul Harrison, Adele Barugahare
 -	**Helpers** : 		Dr Sarah Williams, Dr Nick Wong
 
@@ -44,14 +41,8 @@ Time	|	Programme
 
 #### Shared Notepad
 
--	[Click here](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_31_may_2018)
-
-#### Post-workshop survey
-
-...
+-	[Click here](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_23_march_2018)
 
 #### Keep In Touch
 
-* [Sign up to Data Fluency's mailing list](http://eepurl.com/dmzhGH) for event updates and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
-
-* Join the [Slack channel](https://datafluency.slack.com). This is Data Fluency community space were you can can ask for help and advice, as well as share and discuss links of interest. 
+* [Sign up to Data Fluency's mailing list](https://github.us17.list-manage.com/subscribe?u=6796026cf3cf40ca6d7ea6d03&id=6b5e932048)

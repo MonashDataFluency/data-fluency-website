@@ -14,12 +14,22 @@ research, MATLAB and Git [..more](/about/).
 
 We also have a [Slack channel](https://datafluency.slack.com) where the community can ask for help and advice, as well as share and discuss links of interest. 
 
-## Past Workshops
+## Upcoming workshops
 
-### 23 Mar 2018
+* **31 May 2018:** [Intro to R](/workshops/intro_to_r/)
 
-* [Intro to R](/workshops/intro_to_r/)
+* **01 Jun 2018:** [Intro to Python](/workshops/intro_to_python/)
 
-* [Intro to Python](/workshops/intro_to_python/)
+* **????**: The Unix Shell *(join the mailing list to be notified when workshop registration opens)*
+
+<hr>
+
+### Past Workshops
+
+#### 23 Mar 2018
+
+* [Intro to R](/workshops/intro_to_r/20180323-launch-workshop)
+
+* [Intro to Python](/workshops/intro_to_python/20180323-launch-workshop)
 
 * [Intro to Machine Learning](/workshops/intro_to_machine_learning/)
