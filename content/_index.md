@@ -20,7 +20,9 @@ We also have a [Slack channel](https://datafluency.slack.com) where the communit
 
 * **01 Jun 2018:** [Intro to Python](/workshops/intro_to_python/)
 
-* **????**: The Unix Shell *(join the mailing list to be notified when workshop registration opens)*
+* **27th Jun 2018:** Introduction to HPC and the SLURM Workload Manager *(join the mailing list to be notified when workshop registration opens)*
+
+* **29th Jun 2018:** Introduction to the command line (The Unix Shell) *(join the mailing list to be notified when workshop registration opens)*
 
 <hr>
 

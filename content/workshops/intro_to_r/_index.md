@@ -30,12 +30,12 @@ The workshop will be taught in a similar style to Sofware Carpentry workshops. [
 
 Time	|	Programme
 -----------	| ------------------:
-13:00	|	Welcome & Introduction
-13:30	|	Starting out in R
+13:30	|	Welcome & Introduction
+13:45	|	Starting out in R
 14:30	|	Data frames
 15:30	|	Tea break
 15:45	|	ggplot2
-16:45	|	Wrap-up
+15:00	|	Wrap-up
 
 #### Course material
 
@@ -45,10 +45,6 @@ Time	|	Programme
 #### Shared Notepad
 
 -	[Click here](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_31_may_2018)
-
-#### Post-workshop survey
-
-...
 
 #### Keep In Touch
 
