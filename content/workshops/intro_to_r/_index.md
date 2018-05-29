@@ -9,9 +9,9 @@ draft: false
 - **Date** : 31st May 2018
 - **Time** : 1:30pm to 5:00pm
 - **Location** : Monash University Peninsula Campus, 
-                 Building 621 (Building L, Library). 
-                 L110 Training Room,
-                 https://goo.gl/maps/cPsL3oCD8tw
+                 Building D (Business and Economics), 
+                 Room D3.11A,
+                 https://goo.gl/maps/5CKNAjsMfPs
 -	**Instructors** :	Paul Harrison, Adele Barugahare
 -	**Helpers** : Gede Rajeg, Richard Beare		
 
