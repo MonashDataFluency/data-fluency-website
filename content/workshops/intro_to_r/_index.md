@@ -7,7 +7,7 @@ draft: false
 ## Introduction to R Workshop
 
 - **Date** : 31st May 2018
-- **Time** : 1:30pm to 5:00pm
+- **Time** : 1:00pm to 5:00pm
 - **Location** : Monash University Peninsula Campus, 
                  Building D (Business and Economics), 
                  Room D3.11A,
@@ -30,8 +30,8 @@ The workshop will be taught in a similar style to Sofware Carpentry workshops. [
 
 Time	|	Programme
 -----------	| ------------------:
-13:30	|	Welcome & Introduction
-13:45	|	Starting out in R
+13:00	|	Welcome & Introduction
+13:30	|	Starting out in R
 14:30	|	Data frames
 15:30	|	Tea break
 15:45	|	Data frames continued and ggplot2
