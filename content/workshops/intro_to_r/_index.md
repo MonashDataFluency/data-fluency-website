@@ -6,14 +6,14 @@ draft: false
 
 ## Introduction to R Workshop
 
-- **Date** : 1st June 2018
-- **Time** : 1:00pm to 5:00pm
+- **Date** : 31st May 2018
+- **Time** : 1:30pm to 5:00pm
 - **Location** : Monash University Peninsula Campus, 
                  Building 621 (Building L, Library). 
                  L110 Training Room,
                  https://goo.gl/maps/cPsL3oCD8tw
--	**Instructors** :	Dr Paul Harrison, Adele Barugahare
--	**Helpers** : 		Dr Sarah Williams, Dr Nick Wong
+-	**Instructors** :	Paul Harrison, Adele Barugahare
+-	**Helpers** : Gede Rajeg, Richard Beare		
 
 
 This is a beginner-level workshop providing a taste of working in the R language. It aims to give participants skills needed apply data analysis approaches to research questions
@@ -34,8 +34,8 @@ Time	|	Programme
 13:45	|	Starting out in R
 14:30	|	Data frames
 15:30	|	Tea break
-15:45	|	ggplot2
-15:00	|	Wrap-up
+15:45	|	Data frames continued and ggplot2
+17:00	|	Wrap-up
 
 #### Resources
 
