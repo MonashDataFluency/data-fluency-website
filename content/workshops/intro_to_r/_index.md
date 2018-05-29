@@ -37,14 +37,13 @@ Time	|	Programme
 15:45	|	ggplot2
 15:00	|	Wrap-up
 
-#### Course material
+#### Resources
+
+These are the three key things to have open during the workshop.
 
 *	[Course Notes](https://monashdatafluency.github.io/r-intro-halfday/)
 *	[Login to RStudio](http://biotraining.erc.monash.edu:8787/)
-
-#### Shared Notepad
-
--	[Click here](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_31_may_2018)
+*	[Shared notepad](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_31_may_2018)
 
 #### Keep In Touch
 
