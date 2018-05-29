@@ -10,7 +10,7 @@ draft: false
 - **Time** : 10:00am to 3:00pm
 - **Location** : Monash University Peninsula Campus, 
                  Building 621 (Building L, Library). 
-                 L110 Training Room, (Building L)
+                 L110 Training Room,
                  https://goo.gl/maps/cPsL3oCD8tw
                   
 - **Instructors** : Anup Shah, Andrew Perry

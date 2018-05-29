@@ -10,7 +10,7 @@ draft: false
 - **Time** : 1:00pm to 5:00pm
 - **Location** : Monash University Peninsula Campus, 
                  Building 621 (Building L, Library). 
-                 L110 Training Room, (Building L)
+                 L110 Training Room,
                  https://goo.gl/maps/cPsL3oCD8tw
 -	**Instructors** :	Dr Paul Harrison, Adele Barugahare
 -	**Helpers** : 		Dr Sarah Williams, Dr Nick Wong
