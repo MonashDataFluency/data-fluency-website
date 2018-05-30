@@ -9,10 +9,9 @@ draft: false
 - **Date** : 1st June 2018
 - **Time** : 10:00am to 3:00pm
 - **Location** : Monash University Peninsula Campus, 
-                 Building 621 (Building L, Library). 
-                 L110 Training Room,
-                 https://goo.gl/maps/cPsL3oCD8tw
-                  
+                 Building D (Business and Economics), 
+                 Room D3.11A,
+                 https://goo.gl/maps/5CKNAjsMfPs       
 - **Instructors** : Anup Shah, Andrew Perry
 - **Helpers** : Simon Michnowicz, Kirill Tsyganov, Keith Schulze, Kerri Wait
 
