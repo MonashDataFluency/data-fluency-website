@@ -55,8 +55,7 @@ Time | Programme
 
 #### Post-workshop survey
 
-...
-
+We appreciate your feedback (both positive and negative !) - please fill this out in the last 5 mins of the workshop: https://goo.gl/forms/MJfukKMtWJUjGJ3I2
 
 #### Keep In Touch
 
