@@ -1,7 +1,8 @@
 language: go
 
 go:
-  - master
+  # - master
+  - release-branch.go1.10
 
 install:
   - go get github.com/magefile/mage
@@ -9,6 +10,9 @@ install:
   - cd ${GOPATH:-$HOME/go}/src/github.com/gohugoio/hugo
   - mage vendor
   - mage install
+  # Or just grab the binaries
+  # - wget https://github.com/gohugoio/hugo/releases/download/v0.41/hugo_0.41_Linux-64bit.deb
+  # - dpkg -i https://github.com/gohugoio/hugo/releases/download/v0.41/hugo_0.41_Linux-64bit.deb
 
 script:
   - hugo -t ananke
