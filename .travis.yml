@@ -3,6 +3,12 @@ language: go
 go:
   - master
 
+git:
+  submodules: false
+
+before_install:
+  - git submodule update --init --remote --recursive
+
 install:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.41/hugo_0.41_Linux-64bit.deb
   - sudo dpkg -i hugo_0.41_Linux-64bit.deb
