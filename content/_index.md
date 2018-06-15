@@ -16,10 +16,6 @@ We also have a [Slack channel](https://datafluency.slack.com) where the communit
 
 ## Upcoming workshops
 
-* **31 May 2018:** [Intro to R](/workshops/intro_to_r/)
-
-* **01 Jun 2018:** [Intro to Python](/workshops/intro_to_python/)
-
 * **29th Jun 2018:** Introduction to the command line (The Unix Shell): [Sign up here !](https://tinyurl.com/DataFluUnixShell)
 
 * **27th Jul 2018:** Introduction to HPC and the SLURM Workload Manager *(join the mailing list to be notified when workshop registration opens)*
@@ -27,6 +23,14 @@ We also have a [Slack channel](https://datafluency.slack.com) where the communit
 <hr>
 
 ### Past Workshops
+
+#### 31 May 2018
+
+* [Intro to R](/workshops/intro_to_r/)
+
+#### 01 Jun 2018 
+
+* [Intro to Python](/workshops/intro_to_python/)
 
 #### 23 Mar 2018
 

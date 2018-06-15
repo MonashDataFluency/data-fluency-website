@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-# 27 Apr 2018
+# Data Fluency Drop-In Session: Friday 27th Apr 2018
 
 This first drop-in session we intend to:
 
