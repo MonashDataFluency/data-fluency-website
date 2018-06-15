@@ -22,10 +22,10 @@ On the last Friday of the month we will also be host a book club and a coding / 
 Our ["R for Data Science"](http://r4ds.had.co.nz/) book club discussion continues. 
 Come sharpen your R skills by discussing the content with R experts in the community.
 
-At the June catch up we read up to chapter 7(?) of this book.
+This time we will be discussing chapter 7 of the book: Exploratory Data Analysis.
 
-Please come armed with comments, puzzles or challenges presented within the book, 
-and let's have an interesting discussion.
+Has your data ever surprised you with the story it told? Has visualizing changed how you subsequently analysed or modelled it?
+If you have an interesting image to show, share it on Slack and we can put it up on the projector screen.
 
 #### General help session (3 pm onwards, concurrent with book club)
 
