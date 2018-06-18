@@ -6,13 +6,13 @@ draft: false
 
 ## Friday drop-in sessions
 
-Drop-in sessions run every Friday, 2 - 4 pm, Room G19, 15 Innovation Walk (opposite Cinque Lire cafe).
+Drop-in sessions run every Friday, 3 - 4 pm, Room G19, 15 Innovation Walk (opposite Cinque Lire cafe).
 
 Please drop by to mingle with other data fluency community members.
 
 Show people what you are working on, ask for help or share your expertise with others.
 
-On the last Friday of the month we will also be host a book club and a coding / data analysis challenges.
+On the last Friday of the month we will also be host a book club and a coding / data analysis challenges. These may also sometimes feature a seminar from 2pm.
 
 ----
 ### Next Data Fluency Drop-In Session: Friday 22nd Jun, 2pm - 4pm
