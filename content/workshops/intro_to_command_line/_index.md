@@ -8,14 +8,13 @@ draft: false
 
 - **Date** : 1st July 2019
 - **Time** : 09:00am to 5:00pm
-- **Location** : Monash University Peninsula Campus, 
-                 Building D (Business and Economics), 
+- **Location** : Monash University Clayton Campus, 
                  Room T1. Matheson Library. Clayton Campus
 
 - **Instructors** : Simon Michnowicz, Gin Tan, Kerri Waits, Owen Kaluza
 
 
-This hands-on workshop aims to equip participants with the fundamentals of Unix Shell and how to use it to help their research.
+This hands-on workshop aims to equip participants with the fundamentals of Unix Shell, and how to use it to help their research.
 
 
 #### General Information
@@ -38,7 +37,7 @@ Time | Programme
 
 
 #### Unix  environment
-* This course will use a Jupyter Notebook to enable users to log into a central unix machine. This way users can use a Web page GUI to get a terminal session open.  
+* This course will use a Jupyter Notebook. This way users can use a Web page GUI to get a terminal session open.  
 
 
 #### Shared Notepad
