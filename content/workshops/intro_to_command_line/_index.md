@@ -11,7 +11,7 @@ draft: false
 - **Location** : Monash University Clayton Campus, 
                  Room T1. Matheson Library. Clayton Campus
 
-- **Instructors** : Simon Michnowicz, Gin Tan, Kerri Waits, Owen Kaluza
+- **Instructors** : Simon Michnowicz, Gin Tan, Kerri Waits, Owen Kaluza, Rafi Mohammed Feroz 
 
 
 This hands-on workshop aims to equip participants with the fundamentals of Unix Shell, and how to use it to help their research.
