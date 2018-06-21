@@ -4,10 +4,10 @@ date: 2018-07-01:09:00+11:00
 draft: false
 ---
 
-## Introduction to Python Workshop
+## Introduction to  Command Lines with the Unix Shell
 
 - **Date** : 1st July 2019
-- **Time** : 09:00am to 5:00pm
+- **Time** : 10:00am to 3:00pm
 - **Location** : Monash University Clayton Campus, 
                  Room T1. Matheson Library. Clayton Campus
 
