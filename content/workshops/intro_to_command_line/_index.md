@@ -6,7 +6,7 @@ draft: false
 
 ## Introduction to  Command Lines with the Unix Shell
 
-- **Date** : 1st July 2019
+- **Date** : 1st July 2018
 - **Time** : 10:00am to 3:00pm
 - **Location** : Monash University Clayton Campus, 
                  Room T1. Matheson Library. Clayton Campus
