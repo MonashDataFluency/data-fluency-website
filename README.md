@@ -7,7 +7,7 @@ This is the source for the _Monash Data Fluency_ website.
 # Quickstart
 
 ```bash
-git clone https://github.com/MonashDataFluency/data-fluency-website
+git clone --recurse-submodules https://github.com/MonashDataFluency/data-fluency-website
 cd data-fluency-website
 brew install hugo
 # sudo apt-get install hugo
