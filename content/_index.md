@@ -16,7 +16,7 @@ We also have a [Slack channel](https://datafluency.slack.com) where the communit
 
 ## Upcoming workshops
 
-* **29th Jun 2018:** Introduction to the command line (The Unix Shell): [Sign up here !](https://tinyurl.com/DataFluUnixShell)
+* **29th Jun 2018:** [Introduction to the command line (The Unix Shell)](workshops/intro_to_command_line/)
 
 * **27th Jul 2018:** Introduction to HPC and the SLURM Workload Manager *(join the mailing list to be notified when workshop registration opens)*
 

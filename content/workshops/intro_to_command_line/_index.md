@@ -17,6 +17,7 @@ draft: false
 
 This hands-on workshop aims to equip participants with the fundamentals of Unix Shell, and how to use it to help their research.
 
+### [Sign up here !](https://tinyurl.com/DataFluUnixShell)
 
 #### General Information
 
