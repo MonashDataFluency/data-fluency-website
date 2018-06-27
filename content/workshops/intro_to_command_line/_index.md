@@ -37,29 +37,24 @@ Time | Programme
 01:30 | Session 2
 03:00 | Wrap-up
 
-#### Sites needed on the day
+#### Jupyter Notebook gives you access to a Unix terminal
 
 - The Jupyter Notebook will be the way you access a Unix terminal. A username and password is needed to log into [the Jupyter Server](http://biotraining.erc.monash.edu/jupyter).  This will be given on the day. 
 
 **The Jupyter notebook does not work well with Internet Explorer** Please use another browser (i.e. Chrome, Safari, Firefox)
 
+#### Shared Notepad
+
 - An Etherpad notebook will allow you to make comments or add questions. [Access it here](https://biotraining.erc.monash.edu/etherpad/p/commandline)
+
+#### Syllabus
 
 - The course notes are here.  [Introduction to the Unix Shell (half day)]( https://monashdatafluency.github.io/unixshell/ )
 
 
 
 
-#### Shared Notepad
 
-A notepad is used during the session, for users to ask questions and place comments.
-* [Click here](http://biotraining.erc.monash.edu:9001/p/intro_to_bash_shell__01_07_18) to go to shared notepad. 
-
-
-
-#### Syllabus
-
-[Introduction to the Unix Shell (half day)]( https://monashdatafluency.github.io/unixshell/ )
 
 
 #### Keep In Touch
