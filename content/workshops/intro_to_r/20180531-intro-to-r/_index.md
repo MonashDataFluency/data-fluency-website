@@ -6,16 +6,21 @@ draft: false
 
 ## Introduction to R Workshop
 
-- **Date** : 20th July 2018
-- **Time** : 9:00am to 1:00pm
-- **Location** : Monash University Clayton Campus, Matheson Library, Room T1 
-- **Instructors** :	Paul Harrison, Adele Barugahare, Sarah Williams
+- **Date** : 31st May 2018
+- **Time** : 1:00pm to 5:00pm
+- **Location** : Monash University Peninsula Campus, 
+                 Building D (Business and Economics), 
+                 Room D3.11A,
+                 https://goo.gl/maps/5CKNAjsMfPs
+-	**Instructors** :	Paul Harrison, Adele Barugahare
+-	**Helpers** : Gede Rajeg, Richard Beare		
 
-This is a beginner-level workshop providing a taste of working in the R language. It aims to give participants skills needed apply data analysis approaches to research questions.
+
+This is a beginner-level workshop providing a taste of working in the R language. It aims to give participants skills needed apply data analysis approaches to research questions
 
 #### General Information
 
-The workshop is in a hands on format, in a similar style to [Software Carpentry](https://software-carpentry.org/) workshops.
+The workshop will be taught in a similar style to Sofware Carpentry workshops. [Software Carpentry’s](https://software-carpentry.org/) mission is to trains researchers in the core data skills for efficient, shareable, and reproducible research practices.
 
 **Who:** The course is aimed at beginners to programming. You don’t need to have any previous knowledge of the tools that will be presented at the workshop.
 
@@ -25,12 +30,12 @@ The workshop is in a hands on format, in a similar style to [Software Carpentry]
 
 Time	|	Programme
 -----------	| ------------------:
-9:00	|	Welcome & Introduction
-9:30	|	Starting out in R
-10:30	|	Data frames
-11:30	|	Tea break
-11:45	|	Data frames continued and ggplot2
-13:00	|	Wrap-up
+13:00	|	Welcome & Introduction
+13:30	|	Starting out in R
+14:30	|	Data frames
+15:30	|	Tea break
+15:45	|	Data frames continued and ggplot2
+17:00	|	Wrap-up
 
 #### Resources
 
@@ -38,7 +43,7 @@ These are the three key things to have open during the workshop.
 
 *	[Course Notes](https://monashdatafluency.github.io/r-intro-halfday/)
 *	[Login to RStudio](http://biotraining.erc.monash.edu:8787/)
-*	[Shared notepad](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_20_july_2018)
+*	[Shared notepad](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_31_may_2018)
 
 #### Keep In Touch
 
