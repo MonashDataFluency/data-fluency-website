@@ -11,7 +11,7 @@ draft: false
 - **Location** : Monash University Clayton Campus, Matheson Library, Room T1 
 - **Instructors** :	Paul Harrison, Adele Barugahare, Sarah Williams
 
-This is a beginner-level workshop providing a taste of working in the R language. It aims to give participants skills needed apply data analysis approaches to research questions.
+This is a beginner-level workshop providing a taste of working in the R language. It aims to give participants skills needed to explore and visualize complex data.
 
 #### General Information
 
@@ -37,8 +37,8 @@ Time	|	Programme
 These are the three key things to have open during the workshop.
 
 *	[Course Notes](https://monashdatafluency.github.io/r-intro-halfday/)
-*	[Login to RStudio](http://biotraining.erc.monash.edu:8787/)
-*	[Shared notepad](http://biotraining.erc.monash.edu:9001/p/intro_r_data_fluency_20_july_2018)
+*	[Login to RStudio](https://biotraining.erc.monash.edu/rstudio/)
+*	[Shared notepad](https://biotraining.erc.monash.edu/etherpad/p/intro_r_data_fluency_20_july_2018)
 
 #### Keep In Touch
 
