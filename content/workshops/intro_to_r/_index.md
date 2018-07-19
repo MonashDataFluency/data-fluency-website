@@ -8,7 +8,7 @@ draft: false
 
 - **Date** : 20th July 2018
 - **Time** : 9:00am to 1:00pm
-- **Location** : Monash University Clayton Campus, Matheson Library, Room T1 
+- **Location** : Monash University Clayton Campus, Matheson Library, Room T2 
 - **Instructors** :	Paul Harrison, Adele Barugahare, Sarah Williams
 
 This is a beginner-level workshop providing a taste of working in the R language. It aims to give participants skills needed to explore and visualize complex data.
