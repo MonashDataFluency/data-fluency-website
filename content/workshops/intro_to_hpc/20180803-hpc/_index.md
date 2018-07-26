@@ -4,7 +4,7 @@ date: 2018-07-25:22:15+11:00
 draft: false
 ---
 
-## Introduction to  Command Lines with the Unix Shell
+## Introduction to HPC and the SLURM Workload Manager
 
 - **Date** : Friday 3 Aug 2018
 - **Time** : 10:00am to 4:00pm
@@ -12,7 +12,7 @@ draft: false
                  Room G-T1. Matheson Library. Clayton Campus
 
 - **Instructors** : Simon Michnowicz,  Gin Tan
-- **Helpers** :  Nick Wong, Richard Beare
+- **Helpers** :  Nick Wong, Richard Beare, Trung Nguyen, Damien Leong
 
 This introductory course will provide an overview of a cluster, Linux command-line and how to write Slurm scripts so you can submit a simple batch or parallel job. A hands-on-workshop covering basic High-Performance Computing (HPC) in a nutshell.
 
