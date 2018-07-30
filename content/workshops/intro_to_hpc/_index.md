@@ -41,15 +41,15 @@ Time | Programme
 
 #### Access to HPC system
 
-- You will be given the access to the HPC system on the day
+You will be given the access to the HPC system on the day
 
 #### Shared Notepad
 
-- An Etherpad notebook will allow you to make comments or add questions. [Access it here](https://biotraining.erc.monash.edu/etherpad/p/introtohpc)
+An Etherpad notebook will allow you to make comments or add questions. [Access it here](https://biotraining.erc.monash.edu/etherpad/p/introtohpc)
 
 #### Syllabus
 
-- The course notes are here.  [Introduction to the Unix Shell]( https://gintan.github.io/intro-to-hpc/ )
+The course notes are here.  [Introduction to HPC]( https://gintan.github.io/intro-to-hpc/ )
 
 #### Keep In Touch
 
