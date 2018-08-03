@@ -3,16 +3,15 @@ title: "Monash Data Fluency"
 date: 2018-02-23T13:28:03+11:00
 draft: false
 ---
-_Data Fluency_ is a cross-disciplinary initiative aiming to help researchers 
-at Monash develop skills to explore, interpret and visualise big data to 
-effectively communicate research and ideas. The community is open to 
-researchers, graduate students and professional staff and runs 
-Software and Data Carpentry workshops on R, Python, Tableau, Excel for 
-research, MATLAB and Git [..more](/about/).
+# Learning Resources
 
-[Join the mailing list](http://eepurl.com/dmzhGH) for event updates and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
+Here you can find links to workshop pages and learning resources for [Monash Data Fluency](https://www.monash.edu/data-fluency) events.
 
-We also have a [Slack channel](https://datafluency.slack.com) where the community can ask for help and advice, as well as share and discuss links of interest. 
+* Find out more at the central [Monash Data Fluency](https://www.monash.edu/data-fluency) site.
+
+* [Join the mailing list](http://eepurl.com/dmzhGH) for event updates and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
+
+* Join our [Slack community](https://datafluency.slack.com) to ask for help and advice, as well as share and discuss links of interest. 
 
 ## Upcoming workshops
 
