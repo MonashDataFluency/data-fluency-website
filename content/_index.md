@@ -16,13 +16,15 @@ We also have a [Slack channel](https://datafluency.slack.com) where the communit
 
 ## Upcoming workshops
 
-* **20th Jul 2018:** [Intro to R](workshops/intro_to_r/)
-
-* **3rd Aug 2018:** Introduction to HPC and the SLURM Workload Manager - [Sign up here !](https://www.eventbrite.com.au/e/introduction-to-hpc-tickets-47801540695)
 
 <hr>
 
 ### Past Workshops
+
+#### 3 Aug 2018
+
+* [Introduction to HPC and the SLURM Workload Manager](workshops/intro_to_hpc/)
+
 
 #### 29th Jun 2018
 
