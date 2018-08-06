@@ -15,7 +15,6 @@ Here you can find links to workshop pages and learning resources for [Monash Dat
 
 ## Upcoming workshops
 
-
 <hr>
 
 ### Past Workshops
@@ -23,7 +22,6 @@ Here you can find links to workshop pages and learning resources for [Monash Dat
 #### 3 Aug 2018
 
 * [Introduction to HPC and the SLURM Workload Manager](workshops/intro_to_hpc/)
-
 
 #### 29th Jun 2018
 
