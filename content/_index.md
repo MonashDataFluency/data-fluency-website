@@ -15,6 +15,8 @@ Here you can find links to workshop pages and learning resources for [Monash Dat
 
 ## Upcoming workshops
 
+_.. coming soon.._
+
 <hr>
 
 ### Past Workshops
