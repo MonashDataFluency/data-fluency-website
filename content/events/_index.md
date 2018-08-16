@@ -4,9 +4,9 @@ date: 2018-07-16T11:28:03+11:00
 draft: false
 ---
 
-## Friday drop-in sessions
+## Weekly drop-in sessions
 
-Drop-in sessions run every Friday, 3 - 4 pm, Room G19, 15 Innovation Walk (opposite Cinque Lire cafe).
+Drop-in sessions run every *Friday, 3 - 4 pm, Room G19, 15 Innovation Walk* (opposite Cinque Lire cafe).
 
 Please drop by to mingle with other data fluency community members.
 
@@ -16,32 +16,23 @@ On the last Friday of the month we will also be host a book club and a coding / 
 These may also sometimes feature a seminar from 2pm.
 
 ----
-### Next Data Fluency Drop-In Session: Friday 27nd Jul, 2pm - 4pm
+### Next Data Fluency Drop-In Session: Friday 31st Aug, 2pm - 4pm
 
-Upcoming Data Fluency Book Club 2:00 pm July 27th, G19, 15 Innovation Walk (opposite Cinque Lire Cafe).
+#### Guest speaker
 
-#### Book Club (R for Data Science) & Exploring OpenRefine (2 ~ 3 pm)
+Guest speaker, *Juan Nunez-Iglesias*, Bio Image Analysis Research Fellow from Monash Micro Imaging will present A whirlwind introduction to image analysis in Python at our next event.
 
-For the **Data Fluency book club** for this month (2 pm, July 27th), we will be looking at Chapters 9 
-through to 16 of ["R for Data Science"](http://r4ds.had.co.nz/), which covers "data wrangling": loading and 
-tidying data, operations such as spreading, gathering and joining. 
+*Date and Time:* Friday, August 31st at 2:00 pm in G19, 15 Innovation Walk (opposite Cinque Lire cafe), Clayton campus.
 
-#### Exploring OpenRefine (2 ~ 3 pm)
+#### Data Fluency Book Club
 
-Continuing the data wrangling theme, we will also be spending some time discovering what 
-[OpenRefine](http://openrefine.org/) can do to clean and transform data. If you've never used it, here's a chance to play 
-with it and learn together. If you have used it, bring some dirty data and show us what it can do! 
-Come with your laptop and OpenRefine installed. Download OpenRefine  If there is a chance you'll 
-want to demonstrate something quickly, have Zoom installed so you can share your screen. 
+Immediately after Juan's presentation we will be hosting the Data Fluency Book Club. In this session, we will discuss Chapters 17 - 21 of ["R for Data Science"](http://r4ds.had.co.nz/) on programming and data structures. The goal of these chapters is to learn more about the level of programming required to practice data science. We will be discussing the specifics of pipes, functions, vectors, and iteration, which is another tool for reducing code duplication.
+ 
+This session is building toward the next section on models, which gets pretty wild.
+ 
+Please feel free to share your data images on Slack, and we will show them on the projector during the book club. 
 
-Once again, this will be more interesting if people bring examples. Strange file formats. 
-Peculiar spreadsheets. Parsing challenges, solved or unsolved. Desktops can be shared to 
-the projector using Zoom (https://monash.zoom.us/). 
-
-####  Also ...
-
-The [MelbourneDatathon](http://www.datasciencemelbourne.com/datathon/) will have just started so, 
-for anyone participating in this, one thing we can discuss wrangling is whatever data-set this turns out to be.
+Have an idea for a future seminar ? Email us at: datafluency@monash.edu.
 
 ----
 
