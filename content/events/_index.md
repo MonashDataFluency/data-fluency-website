@@ -16,23 +16,21 @@ On the last Friday of the month we will also be host a book club and a coding / 
 These may also sometimes feature a seminar from 2pm.
 
 ----
-### Next Data Fluency Drop-In Session: Friday 31st Aug, 2pm - 4pm
+### Next Data Fluency Drop-In Session: Friday 26th Oct, 2pm - 4pm
 
-#### Guest speaker
+Location: G19, 15 Innovation Walk (opposite Cinque Lire cafe), Clayton campus.
 
-Guest speaker, *Juan Nunez-Iglesias*, Bio Image Analysis Research Fellow from Monash Micro Imaging will present A whirlwind introduction to image analysis in Python at our next event.
+#### Guest speaker, 2pm
 
-*Date and Time:* Friday, August 31st at 2:00 pm in G19, 15 Innovation Walk (opposite Cinque Lire cafe), Clayton campus.
+Daniel Buzacott, Manager - Integration, eSolutions, will present Integration at Monash: Getting to the data you need at our next event.
 
 #### Data Fluency Book Club
 
-Immediately after Juan's presentation we will be hosting the Data Fluency Book Club. In this session, we will discuss Chapters 17 - 21 of ["R for Data Science"](http://r4ds.had.co.nz/) on programming and data structures. The goal of these chapters is to learn more about the level of programming required to practice data science. We will be discussing the specifics of pipes, functions, vectors, and iteration, which is another tool for reducing code duplication.
- 
-This session is building toward the next section on models, which gets pretty wild.
- 
-Please feel free to share your data images on Slack, and we will show them on the projector during the book club. 
+After the presentation by our guest speaker we will be hosting the Data Fluency Book Club.  In this month's book club we are aiming to finish "R for Data Science", mainly focussing on the section on modelling, Chapters 22-25. Hadley and Garrett have made a very interesting attempt at rendering this important topic intuitive http://r4ds.had.co.nz
 
-Have an idea for a future seminar ? Email us at: datafluency@monash.edu.
+Please feel free to share your data images on Slack, and we will show them on the projector during the book club.
+
+Do you have a suggestion for future seminar ? Email us at: datafluency@monash.edu.
 
 ----
 
