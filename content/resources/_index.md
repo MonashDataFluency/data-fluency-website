@@ -8,7 +8,7 @@ Here are some online training resources recommended by the Data Fluency communit
 
 ## Working with data
 
-* [Intro to R (Monash Bioinformatics Platform)](https://github.com/MonashBioinformaticsPlatform/r-intro) - an 
+* [Intro to R (Monash Bioinformatics Platform)](https://monashdatafluency.github.io/r-intro-2/) - an 
 introductory tutorials on data analysis and visualization with R
 
 * [Intro to Python (Data Carpentry)](http://www.datacarpentry.org/python-ecology-lesson/) - 
