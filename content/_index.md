@@ -15,7 +15,8 @@ Here you can find links to workshop pages and learning resources for [Monash Dat
 
 ## Upcoming workshops
 
-_.. coming soon.._
+Upcoming workshops will be [listed on the main Data Fluency website](https://www.monash.edu/data-fluency/events) and announced on the [mailing list](https://www.monash.edu/data-fluency/get-involved).
+
 
 <hr>
 

@@ -4,6 +4,12 @@ date: 2018-07-16T11:28:03+11:00
 draft: false
 ---
 
+<meta http-equiv="refresh" content="0; URL='https://www.monash.edu/data-fluency/events'" />
+
+[Events are now listed on the central Data Fluency website](https://www.monash.edu/data-fluency/events)
+
+
+
 ## Weekly drop-in sessions
 
 Drop-in sessions run every *Friday, 3 - 4 pm, Room G19, 15 Innovation Walk* (opposite Cinque Lire cafe).
