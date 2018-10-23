@@ -8,8 +8,12 @@ Here are some online training resources recommended by the Data Fluency communit
 
 ## Working with data
 
-* [Intro to R (Monash Bioinformatics Platform)](https://monashdatafluency.github.io/r-intro-2/) - an 
+* [Introduction to R (Monash Bioinformatics Platform)](https://monashdatafluency.github.io/r-intro-2/) - an 
 introductory tutorials on data analysis and visualization with R
+
+* [More R (Monash Bioinformatics Platform)](https://monashbioinformaticsplatform.github.io/r-more/) - going into greater depth on R, including programming and automating repetitive tasks, more detail on the use of Tidyverse packages, and sharing data using Rmarkdown and shiny.
+
+* [Linear models in R (Monash Bioinformatics Platform)](https://monashbioinformaticsplatform.github.io/r-linear/) - using linear models in R. Linear models are useful for many things, and also foundational for machine learning and further statistical methods.
 
 * [Intro to Python (Data Carpentry)](http://www.datacarpentry.org/python-ecology-lesson/) - 
 an introductory Python tutorial
