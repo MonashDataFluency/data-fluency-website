@@ -36,7 +36,7 @@ Upcoming workshops will be [listed on the main Data Fluency website](https://www
 
 #### 01 Jun 2018 
 
-* [Intro to Python](/workshops/intro_to_python/)
+* [Intro to Python](/workshops/intro_to_python/20180601-intro-to-python/)
 
 #### 23 Mar 2018
 
