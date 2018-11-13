@@ -48,8 +48,8 @@ Time | Programme
 
 #### Syllabus
 
-[Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/) 
-(there's nothing really ecology-specific about this course, the dataset used just happens to be an ecology-related CSV file)
+[Introduction to Python Workshop](https://monashdatafluency.github.io/python-workshop-base/fullday/) 
+(This content is largely based on the Data Carpentry _"Data Analysis and Visualization in Python for Ecologists"_ workshop. There's nothing really ecology-specific about this course, the dataset used just happens to be an ecology-related CSV file)
 
 
 #### Post-workshop survey
