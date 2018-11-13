@@ -43,7 +43,7 @@ Time | Programme
 
 #### Shared Notepad
 
-* [Click here](http://biotraining.erc.monash.edu:9001/p/intro_to_python_nov_14_18) to go to shared notepad. 
+* [Click here](https://pad.carpentries.org/intro_to_python_nov_14_18) to go to shared notepad.
 
 
 #### Syllabus
