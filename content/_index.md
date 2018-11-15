@@ -17,10 +17,16 @@ Here you can find links to workshop pages and learning resources for [Monash Dat
 
 Upcoming workshops will be [listed on the main Data Fluency website](https://www.monash.edu/data-fluency/events) and announced on the [mailing list](https://www.monash.edu/data-fluency/get-involved).
 
+* 12 Dec 2018 - [Cleaning Data with OpenRefine](/workshops/cleaning_data_with_openrefine/20181212/)
+
 
 <hr>
 
 ### Past Workshops
+
+#### 14 Nov 2018
+
+* [Intro to Python](/workshops/intro_to_python/20181114-intro-to-python/)
 
 #### 3 Aug 2018
 
