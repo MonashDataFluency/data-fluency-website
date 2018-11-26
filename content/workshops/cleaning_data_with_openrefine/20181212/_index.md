@@ -7,10 +7,10 @@ draft: false
 ## Cleaning Data with OpenRefine
 
 -	**Date** :		12th December 2018
--	**Time** :		**TODO**
+-	**Time** :		10 am - 3:30 pm
 -	**Location** :		[T1, Sir Louis Matheson Library, Clayton, VIC](https://goo.gl/maps/DUXk3v8UuWB2)
 -	**Instructors** :	Andrew Perry, Beth Pearson
--	**Helpers** : 		**TODO**
+-	**Helpers** : 		**TBA**
 
 Got messy data ? Manual data entry with typos ? A spreadsheet that makes Excel grind to a halt ? OpenRefine might just be the tool you need.
 
