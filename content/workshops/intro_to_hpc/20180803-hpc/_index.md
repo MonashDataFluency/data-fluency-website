@@ -6,13 +6,15 @@ draft: false
 
 ## Introduction to HPC and the SLURM Workload Manager
 
-- **Date** : Friday 3 Aug 2018
-- **Time** : 10:00am to 4:00pm
-- **Location** : Monash University Clayton Campus, 
-                 Room G-T1. Matheson Library. Clayton Campus
+**Date** : Friday 3 Aug 2018
 
-- **Instructors** : Simon Michnowicz,  Gin Tan
-- **Helpers** :  Nick Wong, Richard Beare, Trung Nguyen, Damien Leong
+**Time** : 10:00am to 4:00pm
+
+**Location** : Monash University Clayton Campus, Room G-T1. Matheson Library. Clayton Campus
+
+**Instructors** : Simon Michnowicz,  Gin Tan
+
+**Helpers** :  Nick Wong, Richard Beare, Trung Nguyen, Damien Leong
 
 This introductory course will provide an overview of a cluster, Linux command-line and how to write Slurm scripts so you can submit a simple batch or parallel job. A hands-on-workshop covering basic High-Performance Computing (HPC) in a nutshell.
 
@@ -20,7 +22,7 @@ This introductory course will provide an overview of a cluster, Linux command-li
 
 #### General Information
 
-The workshop will be taught in a similar style to Data Carpentry workshops. [Data Carpentry’s](http://www.datacarpentry.org/) mission is to trains researchers in the core data skills for efficient, shareable, and reproducible research practices.
+**Format:**: The workshop will be taught in a similar style to Data Carpentry workshops. [Data Carpentry’s](http://www.datacarpentry.org/) mission is to trains researchers in the core data skills for efficient, shareable, and reproducible research practices.
 
 **Who:**: People who have prior command line experience is mandatory for this workshop and people who have access to Monash HPC systems and would like to know more about using it in an efficient and effective manner. 
 
@@ -53,6 +55,6 @@ The course notes are here.  [Introduction to HPC]( https://gintan.github.io/intr
 
 #### Keep In Touch
 
-* [Sign up to Data Fluency's mailing list](http://eepurl.com/dmzhGH) for event updates and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
+[Sign up to Data Fluency's mailing list](http://eepurl.com/dmzhGH) for event updates and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
 
-* Join the [Slack channel](https://datafluency.slack.com). This is Data Fluency community space were you can can ask for help and advice, as well as share and discuss links of interest. 
+Join the [Slack channel](https://datafluency.slack.com). This is Data Fluency community space were you can can ask for help and advice, as well as share and discuss links of interest. 

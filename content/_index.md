@@ -27,11 +27,11 @@ Upcoming workshops will be [listed on the main Data Fluency website](https://www
 
 #### 3 Aug 2018
 
-* [Introduction to HPC and the SLURM Workload Manager](workshops/intro_to_hpc/)
+* [Introduction to HPC and the SLURM Workload Manager](/workshops/intro_to_hpc/20180803-hpc/)
 
 #### 29th Jun 2018
 
-* [Introduction to the command line (The Unix Shell)](workshops/intro_to_command_line/)
+* [Introduction to the command line (The Unix Shell)](/workshops/intro_to_command_line/20180701-commandLine/)
 
 #### 31 May 2018
 
