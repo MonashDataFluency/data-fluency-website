@@ -10,7 +10,7 @@ draft: false
 -	**Time** :		10 am - 3:30 pm
 -	**Location** :		[T1, Sir Louis Matheson Library, Clayton, VIC](https://goo.gl/maps/DUXk3v8UuWB2)
 -	**Instructors** :	Andrew Perry, Beth Pearson
--	**Helpers** : 		**TBA**
+-	**Helpers** : 		Cassandra Freeman, Linda Kalejs, Anna Stokes, Penelope Presta, Melissa Santoso, Amy Han
 
 Got messy data ? Manual data entry with typos ? A spreadsheet that makes Excel grind to a halt ? OpenRefine might just be the tool you need.
 
@@ -47,7 +47,7 @@ We will follow the [Library Carpentry OpenRefine](https://librarycarpentry.githu
 #### Post-workshop survey
 
 We appreciate your feedback (both positive and negative !) - please fill this out in the last 5 mins of the workshop: 
-**TODO**
+https://goo.gl/forms/2xZLrj4umOlpqmEJ3
 
 #### Keep In Touch
 
