@@ -29,10 +29,13 @@ This is a hands-on workshop that will be taught in the style of Software Carpent
 
 Time | Programme
 ----------- | ------------------:
-01:00 | Session 1
-02:45 | Break
-03:00 | Session 2
-04:45 | Wrap up, [post workshop survey](#post-workshop-survey)
+10:00  | Session 1
+11:00  | Break
+12:15  | Lunch
+01:00  | Session 2
+02:15  | Break
+03:15  | Wrap up, [post workshop survey](#post-workshop-survey)
+
 
 #### Shared Notepad
 
