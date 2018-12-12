@@ -14,7 +14,7 @@ draft: false
 
 **Instructors** : Simon Michnowicz,  Gin Tan
 
-**Helpers** :  Sonika Tyagi, Trung Nguyen, Damien Leong
+**Helpers** :  Sonika Tyagi, Trung Nguyen, Damien Leong, Juan Nunez-Iglesias
 
 This introductory course will provide an overview of a cluster, Linux command-line and how to write Slurm scripts so you can submit a simple batch or parallel job. A hands-on-workshop covering basic High-Performance Computing (HPC) in a nutshell.
 
@@ -50,6 +50,10 @@ An Etherpad notebook will allow you to make comments or add questions. [Access i
 #### Syllabus
 
 The course notes are here.  [Introduction to HPC]( https://gintan.github.io/intro-to-hpc/ )
+
+#### Workshop Feedback Form
+
+We appreaciate feedback. [Leave your feedback here](https://tinyurl.com/introtohpcfeedback)
 
 #### Keep In Touch
 

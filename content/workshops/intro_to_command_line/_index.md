@@ -12,7 +12,7 @@ draft: false
                  Room T1. Matheson Library. Clayton Campus
 
 - **Instructors** : Simon Michnowicz,  Jay Van Schyndel
-- **Helpers** :  Gin Tan, Luhan Cheng, Trung Nguyen, Rafi Mohammed Feroz 
+- **Helpers** :  Gin Tan, Trung Nguyen, Rafi Mohammed Feroz 
 
 
 This hands-on workshop aims to equip participants with the fundamentals of Unix Shell, and how to use it to help their research.
@@ -51,11 +51,9 @@ Time | Programme
 
 - The course notes are here.  [Introduction to the Unix Shell (half day)]( https://monashdatafluency.github.io/unixshell/ )
 
+#### Workshop Feedback Form
 
-
-
-
-
+We appreaciate feedback. [Leave your feedback here](https://tinyurl.com/unixshellfeedback)
 
 #### Keep In Touch
 
