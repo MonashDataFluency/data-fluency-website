@@ -21,6 +21,12 @@ Upcoming workshops will be [listed on the main Data Fluency website](https://www
 
 ### Past Workshops
 
+#### Dec 2018
+
+* [Introduction to HPC and the SLURM Workload Manager](/workshops/intro_to_hpc/20181217-hpc/)
+* [Introduction to Command Lines with the Unix Shell](/workshops/intro_to_command_line/20181214-commandLine/)
+* [Cleaning Data with OpenRefine](/workshops/cleaning_data_with_openrefine/20181212/)
+
 #### 14 Nov 2018
 
 * [Intro to Python](/workshops/intro_to_python/20181114-intro-to-python/)
