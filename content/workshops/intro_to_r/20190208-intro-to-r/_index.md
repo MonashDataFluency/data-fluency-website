@@ -41,7 +41,7 @@ These are the three key things to have open during the workshop.
 
 *	[Course Notes](https://monashdatafluency.github.io/r-intro-2/)
 *	[Login to RStudio](https://biotraining.erc.monash.edu/rstudio/)
-*	[Shared notepad](https://pad.carpentries.org/monash_intro_r_8_feb_2019)
+*	[Shared notepad](https://biotraining.erc.monash.edu/etherpad/p/intro_r_8_feb_2019)
 
 #### Keep In Touch
 
