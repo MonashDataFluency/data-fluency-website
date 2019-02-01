@@ -8,7 +8,7 @@ draft: false
 
 - **Date** : 18th Feb 2019
 - **Time** : 10:0am to 5:00pm
-- **Location** : Room D3.11A (Peninsula Campus)
+- **Location** : Room D3.11A (Business and Economics Faculty Building, Peninsula Campus)
 -	**Instructors** :	Richard Beare, Julian Tagell, Oscar Lane
 -	**Helpers** : Shefali Joshi
 
