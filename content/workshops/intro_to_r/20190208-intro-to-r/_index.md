@@ -10,7 +10,7 @@ draft: false
 - **Time** : 10:0am to 5:00pm
 - **Location** : Matheson Library T1, 40 Exhibition Walk Clayton
 -	**Instructors** :	Adele Barugahare, Gede Rajeg
--	**Helpers** : Zoe Seeger, Sophia Wright
+-	**Helpers** : Zoe Seeger, Sarah Williams, Michael See
 
 This is a beginner-level workshop providing a taste of working in the R language. It aims to give participants skills needed apply data analysis approaches to research questions
 
