@@ -24,4 +24,4 @@ The course is aimed at beginners to programming. You don’t need to have any pr
 * [23rd March 2018](20180323-launch-workshop/) - Data Fluency launch workshop
 * [1st June, 2018](20180601-intro-to-python/)
 * [14th November, 2018](20181114-intro-to-python)
-* [21st February, 2019](20190221)
+* [21st February, 2019](20190221-intro-to-python)
