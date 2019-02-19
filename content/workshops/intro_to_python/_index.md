@@ -1,5 +1,5 @@
 ---
-title: "Intro to Python - Nov 2018"
+title: "Intro to Python Workshops"
 date: 2018-11-05T13:28:03+11:00
 draft: false
 ---
