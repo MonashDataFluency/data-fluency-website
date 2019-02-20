@@ -10,7 +10,7 @@ draft: false
 -	**Time** :		10:00am to 5:00pm
 -	**Location** :		[T1, Sir Louis Matheson Library, Clayton, VIC](https://goo.gl/maps/DUXk3v8UuWB2)
 -	**Instructors** :	Anup Shah, Andrew Perry, Jay van Schyndel
--	**Helpers** : 		Gulrez Chahal, Rafi M Feroze, Zoe Seeger
+-	**Helpers** : 		Gulrez Chahal, Andrew Harrison, Zoe Seeger
 
 This hands-on workshop aims to equip participants with the fundamentals of programming and give them skills needed to apply data analysis approaches to their research questions.
 
