@@ -7,11 +7,13 @@ draft: false
 
 Here you can find links to workshop pages and learning resources for [Monash Data Fluency](https://www.monash.edu/data-fluency) events.
 
-* Find out more at the central [Monash Data Fluency](https://www.monash.edu/data-fluency) site.
+* [Browse workshop training material](/resources/) developed by Monash Data Fluency and others.
 
 * [Join the mailing list](http://eepurl.com/dmzhGH) for event updates and checkout our [Github](https://github.com/MonashDataFluency) (pull requests and stars welcome !). 
 
 * Join our [Slack community](https://datafluency.slack.com) to ask for help and advice, as well as share and discuss links of interest. 
+
+* Find out more at the central [Monash Data Fluency](https://www.monash.edu/data-fluency) site.
 
 ## Upcoming workshops
 
