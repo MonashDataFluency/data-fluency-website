@@ -25,3 +25,4 @@ The course is aimed at beginners to programming. You don’t need to have any pr
 * [1st June, 2018](20180601-intro-to-python/)
 * [14th November, 2018](20181114-intro-to-python)
 * [21st February, 2019](20190221-intro-to-python)
+* [2nd April, 2019](20190402-intro-to-python)
