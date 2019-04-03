@@ -9,8 +9,12 @@ This is the source for the _Monash Data Fluency_ website.
 ```bash
 git clone --recurse-submodules https://github.com/MonashDataFluency/data-fluency-website
 cd data-fluency-website
-brew install hugo
+# For hugo v0.41, currently used version
+brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/b1e187384baf6b50960ceed7d0964c151d14eada/Formula/hugo.rb
+
+# brew install hugo
 # sudo apt-get install hugo
+
 hugo server
 ```
 
