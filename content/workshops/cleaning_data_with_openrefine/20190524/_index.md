@@ -9,7 +9,7 @@ draft: false
 -	**Date** :		24th May 2019
 -	**Time** :		10:00am - 1:30pm
 -	**Location** :	Training Room, Peninsula Library, Peninsula Campus
--	**Instructors** :	Beth, Pearson, Mervyn Lim
+-	**Instructors** :	Beth Pearson, Mervyn Lim
 
 Got messy data? Manual data entry with typos? A spreadsheet that makes Excel grind to a halt? OpenRefine might just be the tool you need.
 
