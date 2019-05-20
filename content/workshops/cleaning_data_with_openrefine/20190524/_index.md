@@ -7,7 +7,7 @@ draft: false
 ## Cleaning Data with OpenRefine
 
 -	**Date** :		24th May 2019
--	**Time** :		10:00am - 1:30pm
+-	**Time** :		09:30am - 1:00pm
 -	**Location** :	Training Room, Peninsula Library, Peninsula Campus
 -	**Instructors** :	Beth Pearson, Mervyn Lim
 
@@ -29,10 +29,10 @@ There will be lots of helpers in the workshop to assist in keeping things on tra
 
 Time | Programme
 ----------- | ------------------:
-10:00  | Session 1
-11:30  | Break
-12:00  | Session 2
-13:15  | Wrap up, [post workshop survey](https://forms.gle/3X3zoFBQEGeMqMyX6)
+09:30  | Session 1
+11:00  | Break
+11:30  | Session 2
+12:45  | Wrap up, [post workshop survey](https://forms.gle/3X3zoFBQEGeMqMyX6)
 
 
 #### Shared Notepad
