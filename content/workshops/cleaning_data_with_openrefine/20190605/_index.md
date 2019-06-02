@@ -6,10 +6,10 @@ draft: false
 
 ## Cleaning Data with OpenRefine
 
--	**Date** :		24th May 2019
+-	**Date** :		5th June 2019
 -	**Time** :		09:30am - 1:00pm
--	**Location** :	Training Room, Peninsula Library, Peninsula Campus
--	**Instructors** :	Beth Pearson, Mervyn Lim
+-	**Location** :	Training Room 2, Sir Louis Matheson Library, Clayton Campus
+-	**Instructors** :	Beth Pearson, Sophie Wright
 
 Got messy data? Manual data entry with typos? A spreadsheet that makes Excel grind to a halt? OpenRefine might just be the tool you need.
 
@@ -37,7 +37,7 @@ Time | Programme
 
 #### Shared Notepad
 
-* [Click here](https://pad.carpentries.org/monash_openrefine_2019_05_24) to go to shared notepad.
+* [Click here](https://pad.carpentries.org/monash_openrefine_2019_06_05) to go to shared notepad.
 
 
 #### Syllabus
