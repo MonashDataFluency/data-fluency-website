@@ -1,24 +1,25 @@
 ---
 title: "Introduction to HPC and the SLURM Workload Manager"
-date: 2018-12-10:22:15+11:00
+date: 2019-07-17:22:15+11:00
 draft: false
 ---
 
 ## Introduction to HPC and the SLURM Workload Manager
 
-**Date** : Monday 17 Dec 2018
+**Date** : Thu 18 July 2019
 
-**Time** : 1:30 p.m. to 5:00pm
+**Time** : 1:00 p.m. to 5:00pm
 
 **Location** : Monash University Clayton Campus, Room G-T1. Matheson Library. Clayton Campus
 
-**Instructors** : Simon Michnowicz,  Gin Tan
+**Instructors** : Simon Michnowicz,  Jay van Schyndel
 
-**Helpers** :  Sonika Tyagi, Trung Nguyen, Damien Leong, Juan Nunez-Iglesias
+**Helpers** :  Trung Nguyen, Luhan Cheng, Naveen Kaushik, Lachlan O’Neill, Tyrone Chen, Tarun Bonu
+
 
 This introductory course will provide an overview of a cluster, Linux command-line and how to write Slurm scripts so you can submit a simple batch or parallel job. A hands-on-workshop covering basic High-Performance Computing (HPC) in a nutshell.
 
-### [Sign up here !](https://tinyurl.com/introhpcDec18)
+### [Sign up here !](https://github.us17.list-manage.com/track/click?u=6796026cf3cf40ca6d7ea6d03&id=010a2d8502&e=70b2b97eb5)
 
 #### General Information
 
@@ -32,20 +33,20 @@ This introductory course will provide an overview of a cluster, Linux command-li
 
 Time | Programme
 ----------- | ------------------:
-13:30 | Welcome
-13:45 | Session 1
+13:00 | Welcome
+13:15 | Session 1
 15:00 | Break
-15:30 | Session 2
+15:15 | Session 2
 17:00 | Wrap up
 
 
 #### Access to HPC system
 
-You will be given the access to the HPC system on the day
+You will be given access to an HPC system on the day
 
 #### Shared Notepad
 
-An Etherpad notebook will allow you to make comments or add questions. [Access it here](https://biotraining.erc.monash.edu/etherpad/p/introtohpcdec)
+An Etherpad notebook will allow you to make comments or add questions. [Access it here](https://biotraining.erc.monash.edu/etherpad/p/introtohpc1807)
 
 #### Syllabus
 
