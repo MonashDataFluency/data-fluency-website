@@ -1,5 +1,5 @@
 ---
-title: "Cleaning Data with OpenRefine - April 2019"
+title: "Cleaning Data with OpenRefine - August 2019"
 date: 2018-11-15T13:28:03+11:00
 draft: false
 ---
